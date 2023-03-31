@@ -5,3 +5,7 @@
 .x::after{
     content: "\2717";
 }
+
+.due-punti::after{
+    content: "\003A";
+}
