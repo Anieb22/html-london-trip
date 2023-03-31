@@ -6,6 +6,10 @@
     content: "\2717";
 }
 
+.trattino::after{
+    content: "\2010";
+}
+
 .due-punti::after{
     content: "\003A";
 }
